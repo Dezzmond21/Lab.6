@@ -11,6 +11,6 @@ Lab.6
 
 3. Моніторинг навантаження на сервер
 
-![image](https://user-images.githubusercontent.com/46502035/201805897-894ffc2f-faed-4a9d-a617-170abf2c1f1e.png)
+
 
 4. 
