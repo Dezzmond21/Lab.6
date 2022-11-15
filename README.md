@@ -9,8 +9,12 @@ Lab.6
 
 ![image](https://user-images.githubusercontent.com/46502035/201804991-fc5ffd17-7ee5-4f7d-8c35-2efd9e66362b.png)
 
-3. Моніторинг навантаження на сервер
+3. Запущений інстанс
 
+![image](https://user-images.githubusercontent.com/46502035/201811196-11206609-9a49-4815-b634-9b02a5a6c557.png)
 
+4. Підключення до інстансу через GitBash та приватний ключ 
 
-4. 
+![image](https://user-images.githubusercontent.com/46502035/201813192-af0cf20d-4567-40b2-8895-6b4329792a60.png)
+
+5.
